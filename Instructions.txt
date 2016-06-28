@@ -1,0 +1,16 @@
+How to set up the Project :
+
+Datbase :
+
+1) Execute the given sql script file to create database and the table in SQL Server2014
+
+Visual Studio
+1) Open the solution file VeraitoAssignment  in Visual studio. ( I have used VS2013 to create the project).
+2) Go to the Project VeraitoServices. 
+3) Go to web.config and change the value of connection string BooksEntities. I have used windows authentication to connect to the server. Its up to you if you want
+ to use windows or SQL Authentication.
+4)Right Click on BookService.svc file . Choose View in browser. Get the URL of the service in the browser. For example for me url was : "http://localhost:52875/BookService.svc".
+5)Go to the Project VeraitoUI present in the same solution.Go to operations.js file and change the value of the variable baseurl to the url obtained from step 4 
+6) Run the project using any browser
+
+Note : Make sure your SQLserver(SQLEXpress) service is running otherwise, conncetion to sqlserver will not be established.

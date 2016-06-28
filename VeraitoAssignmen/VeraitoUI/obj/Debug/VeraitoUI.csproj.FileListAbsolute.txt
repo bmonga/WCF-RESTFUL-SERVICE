@@ -1,0 +1,12 @@
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoUI\bin\VeraitoUI.dll.config
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoUI\bin\VeraitoUI.dll
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoUI\bin\VeraitoUI.pdb
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoUI\obj\Debug\VeraitoUI.dll
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoUI\obj\Debug\VeraitoUI.pdb
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoUI\obj\Debug\VeraitoUI.csprojResolveAssemblyReference.cache
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoUI\bin\VeraitoUI.dll.config
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoUI\bin\VeraitoUI.dll
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoUI\bin\VeraitoUI.pdb
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoUI\obj\Debug\VeraitoUI.csprojResolveAssemblyReference.cache
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoUI\obj\Debug\VeraitoUI.dll
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoUI\obj\Debug\VeraitoUI.pdb

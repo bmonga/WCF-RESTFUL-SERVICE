@@ -1,0 +1,20 @@
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\bin\VeraitoServices.dll.config
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\bin\VeraitoServices.dll
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\bin\VeraitoServices.pdb
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.dll
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.SqlServer.dll
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.xml
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.SqlServer.xml
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\obj\Debug\VeraitoServices.dll
+c:\users\bhawna\documents\visual studio 2013\Projects\VeraitoAssignmen\VeraitoServices\obj\Debug\VeraitoServices.pdb
+C:\Users\Bhawna\Documents\Visual Studio 2013\Projects\VeraitoAssignmen\VeraitoServices\obj\Debug\VeraitoServices.csprojResolveAssemblyReference.cache
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\bin\VeraitoServices.dll.config
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\bin\VeraitoServices.dll
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\bin\VeraitoServices.pdb
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.dll
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.SqlServer.dll
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.xml
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\bin\EntityFramework.SqlServer.xml
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\obj\Debug\VeraitoServices.csprojResolveAssemblyReference.cache
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\obj\Debug\VeraitoServices.dll
+C:\Users\Bhawna\Desktop\Code\VeraitoAssignmen\VeraitoServices\obj\Debug\VeraitoServices.pdb

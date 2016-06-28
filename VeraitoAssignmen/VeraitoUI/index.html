@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Books></title>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.2.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css"> 
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script type="text/javascript" src="Operations.js"></script>
+    <link rel="stylesheet" type="text/css" href="IndexStyles.css">
+
+</head>
+<body>
+
+   
+    <div>
+        <div class="welcome">
+            <h1>Welcome to Books Website</h1>
+        </div>
+        <table id="table1" border="0">
+            <tr>
+                <td width="50%" align="center" > <h2>Search or Delete a Book </h2></td>
+                <td width="50%" align="center"><h2> Add or Update a Book </h2> </td>
+              
+            </tr>
+            <tr>
+                <td>
+                    <table cellpadding="2" align="center" border="0">
+
+                        <tr>
+                            <td><b>Book ID :</b></td>
+                            <td style="text-align: left;">
+                                <input type="text" id="txtBookID" required />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2">
+                                <input type="button" id="btnGetBookDetails" value="Get a Book " />
+                                <input type="button" id="btnDeleteBook" value="Delete a Book" />
+                            </td>
+                        </tr>
+
+                      
+                    </table>
+                </td>
+                <td>
+                    <table cellpadding="2" cellspacing="4" align="center" border="0">
+                        <tr>
+                            <td>
+                              <b>  Book ID : </b>
+                            </td>
+                            <td style="text-align: left;">
+                                <input type="text" id="txtAddBookID" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                             <b>  Book Title : </b>
+                            </td>
+                            <td style="text-align: left;">
+                                <input type="text" id="txtAddBookTitle" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                             <b>   Book Description : </b>
+                            </td>
+                            <td style="text-align: left;">
+                                <input type="text" id="txtAddBookDescription" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="2">
+                                <input type="button" id="btnAddNewBook" value="Add a Book" />
+                                <input type="button" id="btnUpdateBook" value="Update Book" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td align="right">
+
+                    
+                </td>
+                </tr>
+        
+        </table>
+        <table border="0" align="center">
+        <tr> <td align="center"> <h2>Check out our current stock </h2> </td> </tr>
+        <tr>  
+            <td align="center">
+        <table id="tbDetails" border="1">
+            <thead>
+           
+                <tr>
+                    <td>ID</td>
+                    <td>Title</td>
+                    <td>Description</td>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+                </td>
+
+            </tr>
+            </table>
+         
+         
+
+        </div>
+    <div id="dialog" title="Message!"><p id="msg"></p></div>
+</body>
+</html>
